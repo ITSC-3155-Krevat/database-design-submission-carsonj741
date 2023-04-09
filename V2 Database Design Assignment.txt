@@ -1,0 +1,7 @@
+Multiple account types and more than one playlist.
+
+Add account type attribute to user table.
+
+Make playlist attribute in the user table have a different attribute.
+
+
